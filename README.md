@@ -36,6 +36,8 @@ Before submitting:
 - verify string logic
 - check edge cases
 
+Testing evidence for this lab is documented in `TESTING.md`.
+
 ---
 
 ## Submission
